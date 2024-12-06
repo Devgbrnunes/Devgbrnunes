@@ -21,7 +21,7 @@
 ### Main skills:
 ![Python](https://img.shields.io/badge/python-0d1117?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-0d1117.svg?style=for-the-badge&logo=mysql&logoColor=4682B4)
-![Java](https://img.shields.io/badge/java-0d1117.svg?style=for-the-badge&logo=php&logoColor=%4169E1)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=red)
 ![C](https://img.shields.io/badge/c-0d1117.svg?style=for-the-badge&logo=c&logoColor=gray)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white)
 
