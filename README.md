@@ -21,12 +21,11 @@
 ### Main skills:
 ![Python](https://img.shields.io/badge/python-0d1117?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-0d1117.svg?style=for-the-badge&logo=mysql&logoColor=4682B4)
-![Php](https://img.shields.io/badge/php-0d1117.svg?style=for-the-badge&logo=php&logoColor=%4169E1)
+![Java](https://img.shields.io/badge/java-0d1117.svg?style=for-the-badge&logo=php&logoColor=%4169E1)
 ![C](https://img.shields.io/badge/c-0d1117.svg?style=for-the-badge&logo=c&logoColor=gray)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white)
 
 ### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/javascript-0d1117.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Anaconda](https://img.shields.io/badge/Anaconda-0d1117.svg?style=for-the-badge&logo=anaconda&logoColor=3CB371)
 ![Kali](https://img.shields.io/badge/Kali-0d1117?style=for-the-badge&logo=kalilinux&logoColor=white)
 
